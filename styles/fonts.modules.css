@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Dana-Regular";
+  src: url("../public/fonts/Dana-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Dana-Medium";
+  src: url("../public/fonts/Dana-Medium.woff") format("woff");
+}
+@font-face {
+  font-family: "Dana-Bold";
+  src: url("../public/fonts/Dana-Black.woff") format("woff");
+}
