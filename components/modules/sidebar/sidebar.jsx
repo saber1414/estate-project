@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const Sidebar = () => {
@@ -17,9 +18,9 @@ const Sidebar = () => {
         <div className="sidebar__bg"></div>
         <ul className="list">
           <li className="list__item">
-            <a href="index.html" className="list__link">
+            <Link href="/" className="list__link">
               صفحه اصلی
-            </a>
+            </Link>
           </li>
           <li className="list__item">
             <a href="#" className="list__link">
