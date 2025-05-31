@@ -7,7 +7,7 @@ const RealTors = () => {
         <p className="real-tors__tittle">سه مالک برتر</p>
         <div className="real-tors__list">
           <img
-            src="img/realtor-1.jpeg"
+            src="/img/realtor-1.jpeg"
             alt="real-tors top 1"
             className="real-tors__img"
           />
@@ -17,7 +17,7 @@ const RealTors = () => {
           </div>
 
           <img
-            src="img/realtor-2.jpeg"
+            src="/img/realtor-2.jpeg"
             alt="real-tors top 2"
             className="real-tors__img"
           />
@@ -27,7 +27,7 @@ const RealTors = () => {
           </div>
 
           <img
-            src="img/realtor-3.jpeg"
+            src="/img/realtor-3.jpeg"
             alt="real-tors top 3"
             className="real-tors__img"
           />
